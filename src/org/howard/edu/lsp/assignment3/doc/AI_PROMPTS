@@ -1,0 +1,20 @@
+AI Prompts & Excerpts
+Prompts Used
+
+Refactoring Procedural Code to OO
+
+Prompt:
+“Refactor a Java ETL pipeline that processes CSV rows as String arrays into an object-oriented design using classes for Product, CSVReader, Transformer, and CSVWriter. Preserve discount and price range logic.”
+
+Handling CSV Input/Output with Objects
+
+Prompt:
+“Write a Java class CSVReader that reads a CSV file into a list of Product objects, skipping malformed rows and throwing an exception if the file is missing or empty.”
+
+Prompt:
+“Write a Java class CSVWriter that writes a list of Product objects to a CSV file, including a header row and formatting prices to two decimals.”
+
+Implementing Transformations with a Transformer Interface
+
+Prompt:
+“Create a Transformer interface and a ProductTransformer class in Java that applies transformations to a list of Product objects, including uppercasing names, applying Electronics discounts, and categorizing price ranges.”
