@@ -1,7 +1,0 @@
-id,name,category,price,quantity
-1,Book,EDUCATION,12.99,120
-2,Laptop,ELECTRONICS,999.99,25
-3,Notebook,STATIONERY,2.49,500
-4,Headphones,ELECTRONICS,199.99,40
-5,Pencil,STATIONERY,0.99,1000
-6,Smartphone,ELECTRONICS,699.49,30
